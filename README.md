@@ -48,12 +48,19 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
 ![image](https://github.com/Kirthi-Niharika/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/114135005/809374ce-c409-4faa-b118-883f25c37c5e)
+
 ![image](https://github.com/Kirthi-Niharika/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/114135005/aa27228a-89b2-48c4-8708-7624acd19ffc)
+
 ![image](https://github.com/Kirthi-Niharika/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/114135005/6f49a71c-4b7c-444d-b799-2fb26ad95469)
+
 ![image](https://github.com/Kirthi-Niharika/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/114135005/7830b55a-e949-489b-9959-0e991e918aa0)
+
 ![image](https://github.com/Kirthi-Niharika/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/114135005/8aa57d94-94b5-4749-8e04-8387de5f21db)
+
 ![image](https://github.com/Kirthi-Niharika/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/114135005/d3ba486f-ca89-4daf-82cf-318a9cf7a883)
+
 ![image](https://github.com/Kirthi-Niharika/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/114135005/c6b832b7-bcb1-480f-a5ca-f6dca84d91ba)
+
 ![image](https://github.com/Kirthi-Niharika/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/114135005/a9c79ba8-eb0d-43f9-8cd8-29c05276de01)
 
 ## Result:
